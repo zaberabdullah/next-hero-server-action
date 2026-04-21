@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Complete React project",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2026-04-22"
+  },
+  {
+    "id": 2,
+    "title": "Study JavaScript promises",
+    "status": "in-progress",
+    "priority": "medium",
+    "dueDate": "2026-04-24"
+  },
+  {
+    "id": 3,
+    "title": "Fix login page bug",
+    "status": "completed",
+    "priority": "high",
+    "dueDate": "2026-04-18"
+  },
+  {
+    "id": 4,
+    "title": "Create dashboard UI",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2026-04-27"
+  },
+  {
+    "id": 5,
+    "title": "Write API documentation",
+    "status": "pending",
+    "priority": "low",
+    "dueDate": "2026-04-30"
+  },
+  {
+    "id": 6,
+    "title": "Practice coding problems",
+    "status": "in-progress",
+    "priority": "medium",
+    "dueDate": "2026-05-01"
+  },
+  {
+    "id": 7,
+    "title": "Update project README",
+    "status": "completed",
+    "priority": "low",
+    "dueDate": "2026-04-19"
+  },
+  {
+    "id": 8,
+    "title": "Deploy project to server",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2026-05-05"
+  },
+  {
+    "id": 9,
+    "title": "Test mobile responsiveness",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2026-05-03"
+  },
+  {
+    "id": 10,
+    "title": "Add dark mode feature",
+    "status": "pending",
+    "priority": "low",
+    "dueDate": "2026-05-06"
+  }
+]
