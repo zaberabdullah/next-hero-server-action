@@ -20,7 +20,7 @@ export default function ThemeToggle() {
               className={`size-[27px] bg-white shadow-sm ${isSelected ? "ms-[22px] shadow-lg" : ""}`}
             >
               <Switch.Icon>
-                {isSelected ? (
+ 0               {isSelected ? (
                   <Moon className="size-4 text-cyan-600" />
                 ) : (
                   <Sun className="size-4 text-blue-600" />
